@@ -49,7 +49,7 @@ Pero, ¿Cuál es la dificultad? En esta sesión, no podrás ver el resultado mie
 4. Tienes 20 minutos para hacer el siguiente diseño con HTML y CSS:
 
 <kbd>
-<img src="" />
+<img src="https://i.ibb.co/dkv4fwh/Screen-Shot-2020-08-14-at-6-00-13-PM.png" />
 </kbd>
 
 5. Al finalizar el tiempo, dale click en el botón `Share`. Copia la URL y compártela por el chat de Zoom para poder revisar tu resultado.
