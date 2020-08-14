@@ -60,6 +60,35 @@ Pero, ¿Cuál es la dificultad? En esta sesión, no podrás ver el resultado mie
 
 ## 🌈 Recursos:
 
+COLORES:
 
+* [Supported colors](https://htmlcolorcodes.com/color-names/)
+* [Color Hunt](https://colorhunt.co/)
+
+IMAGES: 
+
+* [Woman profile pincture 1](https://images.pexels.com/photos/965324/pexels-photo-965324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* [Woman profile pincture 2](https://images.pexels.com/photos/2998816/pexels-photo-2998816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* [Man profile pincture 1](https://images.pexels.com/photos/4890733/pexels-photo-4890733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* [Man profile pincture 2](https://images.pexels.com/photos/3526923/pexels-photo-3526923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* [Burger PNG 1](https://lh3.googleusercontent.com/proxy/atBsyMlFauXMM8NPqtWM_fzUJFH2Q43p8LhxeN-O7ZN5icOyRiL9rjRWGsb0cIhW_Oc079mDl-fcmFGmqPYD1a0KNfkXW7z4e6jCqntDbkFW2fVbaQUCY_aLYadxNiwN_ex3AYE)
+* [Burger PNG 2](https://lh3.googleusercontent.com/proxy/NforWBj1kakfgovnccwirDR6WSzjBZX7qRw9YrrSJFp2cOGWakViaAhq-wbfZ9SCETvudHhcrAVGHEBEoMftnRBa8u9CNLpNGIuegWOqKtsTIw)
+* [Burger PNG 3](https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG4132.png)
+
+ÍCONOS:
+
+* [Shopping Cart](https://icons8.com/icons/set/shopping-cart)
+* [Search](https://icons8.com/icons/set/search)
+* [Ramen](https://icons8.com/icons/set/ramen)
+* [Hamburger](https://icons8.com/icons/set/hamburger)
+* [Ice Cream](https://icons8.com/icons/set/ice-cream)
+* [Beer](https://icons8.com/icons/set/beer)
+* [User](https://icons8.com/icons/set/user)
+* [Bell](https://icons8.com/icons/set/bell)
+* [Home](https://icons8.com/icons/set/home)
+* [List](https://icons8.com/icons/set/list)
+* [Bookmark](https://icons8.com/icons/set/bookmark)
+* [Plus](https://icons8.com/icons/set/plus)
+* [Star](https://icons8.com/icons/set/star)
 
 ¡COMENCEMOS!
