@@ -1,3 +1,6 @@
+Reto terminado: Juan Rios https://github.com/Mrdaniel01/dark-code-2
+
+
 <img src="https://i.imgur.com/wd7XrVV.png" />
 
 # Challenge HTML 11
